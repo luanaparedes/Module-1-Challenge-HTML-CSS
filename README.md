@@ -118,7 +118,7 @@ This Challenge is graded based on the following criteria:
 
   * Application's CSS selectors and properties are consolidated and organized to follow semantic structure. /
 
-  * Application's CSS file is properly commented.
+  * Application's CSS file is properly commented./
 
 ### Deployment: 32%
 
@@ -132,7 +132,7 @@ This Challenge is graded based on the following criteria:
 
 ### Application Quality: 15%
 
-* Application resembles mock-up provided in the Challenge instructions (at least 90%).
+* Application resembles mock-up provided in the Challenge instructions (at least 90%)./
 
 ### Repository Quality: 13%
 
@@ -140,7 +140,7 @@ This Challenge is graded based on the following criteria:
 
 * Repository follows best practices for file structure and naming conventions./
 
-* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc.
+* Repository follows best practices for class/id naming conventions, indentation, quality comments, etc./
 
 * Repository contains multiple descriptive commit messages./
 

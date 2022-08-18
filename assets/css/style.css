@@ -108,6 +108,7 @@ p {
     color: #ffffff;
 }
 
+/* Content image formatting */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -120,6 +121,7 @@ p {
     max-height: 200px;
 }
 
+/* Content heading styling */
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -208,4 +210,30 @@ p {
 
 .footer h2 {
     font-size: 20px;
+}
+
+/* Nav stays in place */
+@media screen and (max-width: 1028px) {
+    .header nav {
+        font-size: 18px;
+    }
+}
+
+/* Content and Headings stay in format */
+@media screen and (max-width: 1028px) {
+    p {
+        font-size: 13px;
+    }
+    h2 {
+        font-size: 30px
+    }
+}
+
+/* Images smaller to give text and headings room */
+@media screen and (max-width: 1028px) {
+    .search-engine-optimization img,
+    .online-reputation-management img,
+    .social-media-marketing img {
+        max-height: 175px;
+    }
 }
