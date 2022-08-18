@@ -1,8 +1,7 @@
-# Module 1 Challenge CSS & HTML
-Challenge for Module 1 using HTML and CSS learned in activities.
+# Module 1 Challenge
 
-## Horiseon Marketing Agency
-Describes key points of online marketing.
+Challenge for Module 1 using CSS and HTML learned in class and activities.
 
-## Launch
+### Horiseon Marketing Angency 
 
+Describes key points for online marketing.
